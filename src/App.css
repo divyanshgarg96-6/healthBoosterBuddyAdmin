@@ -1,0 +1,41 @@
+.user-details {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+
+    margin: 0 auto;
+}
+
+.btn1,
+.btn2,
+.btn3 {
+    text-align: center;
+    color: red;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+.bt {
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.custom-card-address ul {
+    list-style: circle;
+}
+
+.custom-card-address li {
+    padding: 5px 0;
+    border-bottom: 1px dashed;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ant-card .ant-card-head-title {
+    white-space: pre-line;
+}

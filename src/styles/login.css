@@ -1,0 +1,19 @@
+.container {
+
+    align-items: center;
+        background-color: rgb(245, 245, 245);
+        display: flex;
+        height: 100vh;
+}
+.formContainer{
+    background-color: rgb(255, 255, 255);
+        box-shadow: none;
+        margin: 0px auto;
+        width: 360px;
+        padding: 10vh 5vw;
+        border: 2px solid #dddddd;
+        border-radius: 10px;
+}
+.imageLogo{
+    width: 100px;
+}
